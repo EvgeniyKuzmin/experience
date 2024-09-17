@@ -19,6 +19,7 @@ Self-motivated, conflict-free and responsible team player.
 
 ## Recent skills summary
 
+- **English**: C1 Advanced level
 - **Programming Languages**: Python 2.7 / 3.x, Groovy, Bash
 - **Operational Systems**: Linux
 - **Infrastructure as a Code**: Terraform, Terragrunt
