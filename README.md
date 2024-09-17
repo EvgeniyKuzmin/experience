@@ -1,4 +1,4 @@
-# Evgenii Kuzmin
+# Evgenii Kuzmin, Senior Software Engineer
 
 I am an Software Engineer with 10+ years of overall IT experience. During my career, I've been able to work in various roles, such as:
 
